@@ -6,4 +6,4 @@ This project aims to predict house prices using machine learning techniques. It 
 <h2>Tip</h2>
 <p>Linear Regression Algorithm has been used to train and test the given data</p>
 <p style="color:red;">piyushpkcorp@gmail.com</p>
-<p style="color:red;">This is a paragraph.</p>
+
