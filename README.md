@@ -1,5 +1,6 @@
 # House-Price-Prediction-Project
 This project aims to predict house prices using machine learning techniques. It involves data preprocessing, exploratory data analysis, feature engineering, and building regression models to estimate the sale prices of houses.
+<br>
 <img align="left" alt="House Price" width="1000" src="https://media0.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif?cid=6c09b952qdgokmrzakbd68nd39nqvryrnizuyszsgxwa6ytu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <h2><bold>Problem Statement</bold></h2>
