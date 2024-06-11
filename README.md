@@ -3,7 +3,6 @@ This project aims to predict house prices using machine learning techniques. It 
 
 <h2><bold>Problem Statement</bold></h2>
 <p>As an aspiring top-tier real estate agent, you aim to outshine your competitors by leveraging machine learning to predict house prices accurately. By utilizing advanced statistical analysis tools and techniques, you'll develop a robust model that estimates the optimal selling price for a given property. Your mission is to determine the best possible price your clients can achieve for their homes, ensuring that your model generalizes well to diverse market data. This project combines data science and real estate expertise to provide a competitive edge in the housing market.</p>
-
-<h5>Tip</h5>
+<h2>Tip</h2>
 <p>I have used Linear Regression Model to train and test the given data</p>
 <footer>@piyushpkcorp@gmail.com</footer>
